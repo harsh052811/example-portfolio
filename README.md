@@ -3,33 +3,42 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- B.Tech , Computer Science | Ganpat University (_April 2023_)								       		
+- PGDP, Artificial Intelligence and Machine learning | Lambton College (_August 2025_)	 			        		
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Python Tutor @ Ultimate Coders (_September 2024 - Present_)**
+- Led over 20 hands-on coding sessions using TensorFlow, PyTorch, scikit-learn, and Keras, enhancing practical machine learning.
+- Assisted 60+ students in developing machine learning projects, focusing on data preprocessing, model selection, and hyperparameter tuning.
+- Improved students' understanding of key coding concepts, including statistics, feature engineering, and deep learning techniques.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Data Engineer @ Metamorf (_Octorber 2023 - Present_)**
+- Developed a data pipeline to retrieve targeted financial data via API, securely storing it in a database and integrating with GPT and LLM models.Tracked 400+ recently funded institutions monthly, monitored executive changes, and analyzed dry powder level fluctuations to provide actionable insights.
+- Automated weekly updates through CRON jobs, ensuring consistent and timely data refreshes with a 87% success rate.
+- Authored technical documentation to guide project development, using Microsoft Office, Excel, and JIRA for regular updates and cross-team collaboration.
+
+**Data & Analytics Consultant @ F(x) Data Labs (_November 2022 - October 2023_)**
+- Developed Tableau dashboards for 150+ non-profit clients, boosting donations by 80% through data-driven campaign optimizations.
+- Managed 10+ cross-functional teams, uncovering growth potential by analyzing KPIs related to user acquisition, retention, and monetization.
+- Designed and trained an AI legal assistant, achieving 89% accuracy in providing tailored case insights to lawyers by leveraging advanced algorithms and legal data.
+- Synthesized GPT models to deliver personalized legal recommendations, utilizing historical and real-time case data for increased decision precision.
+- Implemented a secure data pipeline for encryption and clustering, optimizing model tuning. Achieved a 27% cost reduction by optimizing resource management and database operations.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Instagram Hashtag Analyzer 📊
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Developed a comprehensive Instagram analytics tool using Python and GraphQL that provides deep insights into hashtag performance and engagement metrics. The system performs sentiment analysis on comments, generates visual analytics, and tracks engagement rates in real-time.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+**Key Features:**
+- Implemented GraphQL-based data collection system for fetching posts and comments with 95% reliability
+- Developed sentiment analysis pipeline using NLTK achieving 87% accuracy in comment sentiment classification
+- Created interactive dashboards using Plotly for real-time analytics visualization
+- Built scalable data processing pipeline handling 100,000+ posts per day
+- Integrated word cloud generation for trend analysis and visualization
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+**Tech Stack:** Python, GraphQL, NLTK, Pandas, Plotly, matplotlib, WordCloud
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
+![Instagram Analytics Dashboard](/assets/img/instagram_analytics.jpeg)
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
